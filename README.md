@@ -1,4 +1,4 @@
-This is the PASSED version of the replication on the paper 'New Value Strategy (Baolian)'.
+This is the Eliminated version of the replication on the paper 'New Value Strategy (Baolian)'.
 
 The replicated results are in different patterns compared with the paper.
 
